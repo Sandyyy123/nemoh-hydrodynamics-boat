@@ -1,0 +1,6 @@
+numpy>=1.23
+pandas>=1.5
+matplotlib>=3.6
+# Optional, only for the independent cross-check (validate_capytaine.py):
+# capytaine>=2.0
+# meshmagick>=3.3   # NEMOH-format mesh I/O for real client geometry
